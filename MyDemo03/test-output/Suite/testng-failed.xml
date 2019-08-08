@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Order2.xml(failed)">
+    <parameter name="Office" value="Accenture"/>
+    <parameter name="Location" value="Hyderabad"/>
+    <parameter name="DCNO" value="HDC1"/>
+    <groups>
+      <run>
+        <include name="Smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testNGDemos2.Order1">
+        <methods>
+          <include name="remove"/>
+        </methods>
+      </class> <!-- testNGDemos2.Order1 -->
+    </classes>
+  </test> <!-- Order2.xml(failed) -->
+</suite> <!-- Failed suite [Suite] -->

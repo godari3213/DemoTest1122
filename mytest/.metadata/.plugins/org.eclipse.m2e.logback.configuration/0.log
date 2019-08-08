@@ -1,0 +1,154 @@
+2019-05-20 14:26:07,546 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-20 14:27:19,337 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\srinivas.godari\eclipse-workspace\mytest\jgkjg\pom.xml
+2019-05-20 14:27:19,466 [Worker-11] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2019-05-20 14:27:20,781 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: hjg:jgkjg:0.0.1-SNAPSHOT @ C:\Users\srinivas.godari\eclipse-workspace\mytest\jgkjg\pom.xml.
+2019-05-20 14:27:21,102 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jgkjg/src/main/java
+2019-05-20 14:27:21,109 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jgkjg/src/test/java
+2019-05-20 14:27:22,638 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2019-05-20 14:27:23,235 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-20 14:27:23,235 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\jgkjg\src\main\resources
+2019-05-20 14:27:23,237 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-20 14:27:23,238 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\jgkjg\src\test\resources
+2019-06-10 13:16:00,058 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-11 17:24:29,166 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-07-20 20:57:17,324 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-07-20 20:58:29,458 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\pom.xml
+2019-07-20 20:58:29,579 [Worker-0] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2019-07-20 20:58:30,505 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GitDemo1:GitDemo1:0.0.1-SNAPSHOT @ C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\pom.xml.
+2019-07-20 20:58:30,872 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GitDemo1/src/main/java
+2019-07-20 20:58:30,879 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GitDemo1/src/test/java
+2019-07-20 20:58:30,973 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-07-20 20:58:31,650 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:58:31,650 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 20:58:31,653 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:58:31,654 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 20:58:31,719 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:58:31,719 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\jgkjg\src\main\resources
+2019-07-20 20:58:31,722 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:58:31,722 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\jgkjg\src\test\resources
+2019-07-20 20:58:40,666 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:58:40,666 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 20:58:40,667 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:58:40,668 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 20:58:44,672 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:58:44,672 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 20:58:44,673 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:58:44,674 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 20:58:56,296 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:58:56,296 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 20:58:56,298 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:58:56,299 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 20:59:06,785 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:59:06,786 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 20:59:06,786 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:59:06,787 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 20:59:19,032 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:59:19,033 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 20:59:19,034 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:59:19,034 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 20:59:30,136 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:59:30,136 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 20:59:30,141 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 20:59:30,141 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:00:02,894 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:00:02,895 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:00:02,897 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:00:02,897 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:00:03,979 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:00:03,979 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:00:03,981 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:00:03,981 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:00:03,989 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:00:03,989 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\jgkjg\src\main\resources
+2019-07-20 21:00:03,991 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:00:03,991 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\jgkjg\src\test\resources
+2019-07-20 21:00:41,994 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:00:41,995 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:00:41,996 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:00:41,996 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:00:53,477 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:00:53,477 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:00:53,478 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:00:53,479 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:01:08,805 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:01:08,806 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:01:08,807 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:01:08,807 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:01:33,602 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:01:33,602 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:01:33,604 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:01:33,605 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:01:37,160 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:01:37,160 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:01:37,163 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:01:37,163 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:02:01,250 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:02:01,251 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:02:01,252 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:02:01,252 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:02:07,221 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:02:07,221 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:02:07,222 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:02:07,222 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:02:40,578 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:02:40,578 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:02:40,580 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:02:40,580 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:03:02,106 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:03:02,107 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:03:02,108 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:03:02,109 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:03:12,099 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:03:12,099 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:03:12,100 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:03:12,100 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:03:50,868 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:03:50,868 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:03:50,870 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:03:50,870 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:03:52,048 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:03:52,048 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:03:52,049 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:03:52,049 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:04:03,997 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:04:03,997 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:04:03,999 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:04:03,999 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:04:32,864 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:04:32,865 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:04:32,867 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:04:32,868 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:05:38,696 [Worker-9] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2019-07-20 21:05:39,491 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GitDemo1:GitDemo1:0.0.1-SNAPSHOT @ C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\pom.xml.
+2019-07-20 21:05:40,054 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:05:40,055 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:05:40,056 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:05:40,056 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-20 21:05:41,411 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:05:41,411 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-20 21:05:41,413 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-20 21:05:41,413 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-21 00:03:47,957 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-21 00:03:47,958 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-21 00:03:47,961 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-21 00:03:47,961 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-21 00:04:11,536 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-21 00:04:11,540 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-21 00:04:11,540 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-21 00:04:11,540 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-21 00:04:33,096 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-21 00:04:33,097 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-21 00:04:33,098 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-21 00:04:33,098 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-21 00:10:17,238 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-21 00:10:17,239 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-21 00:10:17,240 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-21 00:10:17,240 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-21 00:10:50,918 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-21 00:10:50,918 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-21 00:10:50,919 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-21 00:10:50,919 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources
+2019-07-21 00:56:15,832 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-21 00:56:15,835 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\main\resources
+2019-07-21 00:56:15,836 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-21 00:56:15,837 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas.godari\eclipse-workspace\mytest\GitDemo1\src\test\resources

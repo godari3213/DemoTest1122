@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="smoke">
+    <classes>
+    <class name="ddc5_july.dp2"/>
+    </classes>
+  </test> <!-- dp123 -->
+   <test thread-count="5" name="Sanity">
+    <classes>
+      <class name="ddc5_july.Dp1"/>
+       </classes>
+       </test> <!-- dp123 -->
+      <test thread-count="5" name="Assembly">
+      <classes>
+      <class name="ddc5_july.Dp1"/>
+      <class name="ddc5_july.dp2"/>
+    </classes>
+  
+    </test> <!-- dp123 -->
+</suite> <!-- Suite -->

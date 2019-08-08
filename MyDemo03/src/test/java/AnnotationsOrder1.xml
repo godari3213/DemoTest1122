@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test145">
+    <classes>
+      <class name="MyDemo03.MyDemo03.AnnotationsOrder"/>
+      <class name="MyDemo03.MyDemo03.AnnotationsOrder2"/> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

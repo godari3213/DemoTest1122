@@ -1,0 +1,9 @@
+package com.qa.test;
+
+public class LoginTest {
+	@Test
+	public void home()
+	{
+		System.out.println("Home page");
+	}
+}
